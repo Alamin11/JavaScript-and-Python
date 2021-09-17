@@ -9,3 +9,11 @@ name = "Farjana"
 print(name[0])
 print(name[6])
 print(name)
+
+listName = ["Farjana", "Toma", "Nuntu", "Tuntun pakhi", "Jhunjhun pakhi"]
+print(listName)
+print(listName[0])
+print(listName[1])
+print(listName[2])
+print(listName[3])
+print(listName[4])
